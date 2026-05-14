@@ -1,0 +1,1 @@
+# perbaiki-error-grub-rescue
